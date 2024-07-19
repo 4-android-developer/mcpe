@@ -1,11 +1,11 @@
 {
     "Ads": [
         {
-            "select_ads_interstitial": "ADMOB",
-            "select_ads_interstitial2": "ADMOB",
-            "select_ads_banner": "ADMOB",
-            "select_ads_native": "ADMOB",
-            "select_ads_native_small": "ADMOB",
+            "select_ads_interstitial": "ADMOBX",
+            "select_ads_interstitial2": "ADMOBX",
+            "select_ads_banner": "ADMOBX",
+            "select_ads_native": "ADMOBX",
+            "select_ads_native_small": "ADMOBX",
             "interstitial_3d": "0",
             "status_app": "0",
             "link_redirect": "",
