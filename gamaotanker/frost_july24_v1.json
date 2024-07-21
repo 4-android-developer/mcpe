@@ -1,11 +1,11 @@
 {
     "Ads": [
         {
-            "select_ads_interstitial": "ADMOBx",
-            "select_ads_interstitial2": "ADMOBx",
-            "select_ads_banner": "ADMOBx",
-            "select_ads_native": "ADMOBx",
-            "select_ads_native_small": "ADMOBx",
+            "select_ads_interstitial": "ADMOB",
+            "select_ads_interstitial2": "ADMOB",
+            "select_ads_banner": "ADMOB",
+            "select_ads_native": "ADMOB",
+            "select_ads_native_small": "ADMOB",
             "interstitial_3d": "0",
             "status_app": "0",
             "link_redirect": "",
@@ -27,7 +27,7 @@
             "applovin_zone": "9f20993c3483565b",
             "select_exit": "1",
             "on_off_category": "1",
-            "on_off_more_app": "1",
+            "on_off_more_app": "2",
             "on_off_video_ads": "1",
             "on_off_open_ads": "0",
             "tutorial": "https://sites.google.com/view/mcpe-starla/halaman-muka",
