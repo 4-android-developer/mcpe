@@ -1,11 +1,11 @@
 {
     "Ads": [
         {
-            "select_ads_interstitial": "APPLOVIN",
-            "select_ads_interstitial2": "APPLOVIN",
-            "select_ads_banner": "APPLOVIN",
-            "select_ads_native": "APPLOVIN",
-            "select_ads_native_small": "APPLOVIN",
+            "select_ads_interstitial": "APPLOVINx",
+            "select_ads_interstitial2": "APPLOVINx",
+            "select_ads_banner": "APPLOVINx",
+            "select_ads_native": "APPLOVIxN",
+            "select_ads_native_small": "APPLOVINx",
             "interstitial_3d": "0",
             "status_app": "0",
             "link_redirect": "",
