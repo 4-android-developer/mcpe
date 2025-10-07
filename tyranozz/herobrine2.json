@@ -28,7 +28,7 @@
             "select_exit": "1",
             "on_off_category": "1",
             "on_off_more_app": "2",
-            "on_off_video_ads": "1",
+            "on_off_video_ads": "0",
             "on_off_open_ads": "0",
             "tutorial": "https://help.minecraft.net/hc/en-us/articles/4408894664461-Minecraft-Java-Edition-Skins",
             "hpk_admob1": "",
